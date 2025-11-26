@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FEU E-Library Management System
 
 A comprehensive library management system built with C++ and ImGui, featuring a modern UI and complete book lending workflow.
