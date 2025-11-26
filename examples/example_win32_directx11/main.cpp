@@ -1387,9 +1387,10 @@ bool SaveBorrowEntry(const std::string& bookTitle, const std::string& user) {
 }
 
 bool SaveUsersToCSV() {
-    std::ofstream file(usersCSV);
+    std::ofstream file(usersCSV, std::ios::out | std::ios::trunc);
     if (!file.is_open()) {
-        profileMessage = "ERROR: Failed to open users.csv for saving.";
+        profileMessage = "ERROR: Cannot write to users.csv. Check file permissions or run as administrator.";
+        std::cerr << "Failed to open for writing: " << usersCSV << std::endl;
         return false;
     }
 
@@ -1399,13 +1400,21 @@ bool SaveUsersToCSV() {
         std::string role = p.role.empty() ? std::string("student") : p.role;
         file << p.username << "," << pass << "," << role << "\n";
     }
+    
+    file.close();
+    if (file.fail()) {
+        profileMessage = "ERROR: Failed to save users.csv. Check disk space and permissions.";
+        return false;
+    }
+    
     return true;
 }
 
 void SaveUserProfilesToCSV() {
-    std::ofstream file(userProfileCSV);
+    std::ofstream file(userProfileCSV, std::ios::out | std::ios::trunc);
     if (!file.is_open()) {
-        profileMessage = "ERROR: Failed to open usersprofile.csv for saving.";
+        profileMessage = "ERROR: Cannot write to usersprofile.csv. Check file permissions.";
+        std::cerr << "Failed to open for writing: " << userProfileCSV << std::endl;
         return;
     }
 
