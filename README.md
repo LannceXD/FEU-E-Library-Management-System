@@ -49,8 +49,8 @@ A comprehensive library management system built with C++ and ImGui, featuring a 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/feu-elibrary.git
-cd feu-elibrary
+git clone https://github.com/LannceXD/FEU-E-Library-Management-System.git
+cd FEU-E-Library-Management-System
 ```
 
 2. Build the project:
