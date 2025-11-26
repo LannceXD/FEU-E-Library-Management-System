@@ -1851,6 +1851,39 @@ void AdminMarkEntryReturned(int index) {
     profileMessage = msg;
 }
 
+// Copy book cover to icons folder and return relative path
+std::string CopyBookCoverToIcons(const std::string& sourcePath) {
+    if (sourcePath.empty()) return "";
+    
+    // Check if already a relative path (starts with "icons/")
+    if (sourcePath.find("icons/") == 0 || sourcePath.find("icons\\") == 0) {
+        return sourcePath;
+    }
+    
+    // Extract filename from absolute path
+    std::string filename = sourcePath;
+    size_t lastSlash = sourcePath.find_last_of("\\/");
+    if (lastSlash != std::string::npos) {
+        filename = sourcePath.substr(lastSlash + 1);
+    }
+    
+    // Create destination path in icons folder
+    std::string destPath = "icons/" + filename;
+    std::string fullDestPath = basePath + "..\\..\\" + destPath;
+    
+    // Ensure icons directory exists
+    std::string iconsDir = basePath + "..\\..\\icons";
+    _mkdir(iconsDir.c_str());
+    
+    // Copy file
+    if (CopyFileA(sourcePath.c_str(), fullDestPath.c_str(), FALSE)) {
+        return destPath; // Return relative path
+    }
+    
+    // If copy failed, return original path
+    return sourcePath;
+}
+
 // Remove a book by title (releases textures and persists to CSV)
 void RemoveBook(const std::string& title) {
     if (title.empty()) return;
@@ -4875,7 +4908,18 @@ void RenderAdminDashboard(float fullSizeX, float fullSizeY, bool& loggedIn, cons
                 if (titleStr.empty()) {
                     manageBooksStatusMessage = "ERROR: Title is required.";
                 } else {
-                    Book b; b.title = titleStr; b.author = trim(std::string(m_newAuthor)); b.category = trim(std::string(m_newCategory)); b.iconPath = trim(std::string(m_newIcon));
+                    // Copy book cover to icons folder and get relative path
+                    std::string iconPath = trim(std::string(m_newIcon));
+                    if (!iconPath.empty()) {
+                        iconPath = CopyBookCoverToIcons(iconPath);
+                    }
+                    
+                    Book b; 
+                    b.title = titleStr; 
+                    b.author = trim(std::string(m_newAuthor)); 
+                    b.category = trim(std::string(m_newCategory)); 
+                    b.iconPath = iconPath;
+                    
                     books.push_back(b);
                     SaveBooksToCSV();
                     
