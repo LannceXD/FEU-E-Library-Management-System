@@ -28,6 +28,10 @@ A comprehensive library management system built with C++ and ImGui, featuring a 
 - ⚙️ Configurable fine system (₱ per day, max fine, loan period)
 - 📄 Activity logs with PDF export
 - 🔄 CSV import/export for bulk operations
+  
+### Recommendation
+- Impliment a database for whole online system
+- Firebase etc..
 
 ### Activity Logging
 - Automatic tracking of all user actions
