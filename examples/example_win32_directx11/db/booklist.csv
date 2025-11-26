@@ -1,123 +1,118 @@
-The Great Gatsby,F. Scott Fitzgerald,Fiction,icons/The_Great_Gatsby.jpg
+The Great Gatsby,F. Scott Fitzgerald,Fiction,icons/book1.png
 Introduction to C++,Bjarne Stroustrup,Computer Science,icons/book2.png
-Python Basics,Guido van Rossum,Computer Science,icons/Python_Basics.jpg
+Python Basics,Guido van Rossum,Computer Science,icons/book3.png
 The Lord of the Rings,J.R.R. Tolkien,Fantasy,icons/book4.png
-Introduction to Algorithms,Thomas H. Cormen;Charles E. Leiserson;Ronald L. Rivest;Clifford Stein,Computer Science,icons/Introduction_to_Algorithms.jpg
-The C++ Programming Language,Bjarne Stroustrup,Computer Science,icons/The_C_Programming_Language.jpg
-Structure and Interpretation of Computer Programs,Harold Abelson;Gerald Jay Sussman,Computer Science,icons/Structure_and_Interpretation_of_Computer_Programs.jpg
-Design Patterns,Erich Gamma;Richard Helm;Ralph Johnson;John Vlissides,Computer Science,icons/Design_Patterns.jpg
-Clean Code,Robert C. Martin,Computer Science,icons/Clean_Code.jpg
-Operating System Concepts,Abraham Silberschatz;Peter Baer Galvin;Greg Gagne,Computer Science,icons/Operating_System_Concepts.jpg
-Computer Networks,Andrew S. Tanenbaum,Computer Science,icons/Computer_Networks.jpg
-Artificial Intelligence: A Modern Approach,Stuart Russell;Peter Norvig,Computer Science,icons/Artificial_Intelligence_A_Modern_Approach.jpg
-Compilers: Principles, Techniques, and Tools,Alfred V. Aho;Monica S. Lam;Ravi Sethi;Jeffrey D. Ullman,Computer Science,icons/Compilers_Principles.jpg
-Deep Learning,Ian Goodfellow;Yoshua Bengio;Aaron Courville,Computer Science,icons/Deep_Learning.jpg
-Modern Operating Systems,Andrew S. Tanenbaum,Computer Science,icons/Modern_Operating_Systems.jpg
-Computer Organization and Design,David A. Patterson;John L. Hennessy,Computer Science,icons/Computer_Organization_and_Design.jpg
-The Art of Computer Programming,Donald E. Knuth,Computer Science,icons/The_Art_of_Computer_Programming.jpg
-Introduction to the Theory of Computation,Michael Sipser,Computer Science,icons/Introduction_to_the_Theory_of_Computation.jpg
-Database System Concepts,Abraham Silberschatz;Henry F. Korth;S. Sudarshan,Computer Science,icons/Database_System_Concepts.jpg
-Programming Pearls,Jon Bentley,Computer Science,icons/Programming_Pearls.jpg
+Introduction to Algorithms,Thomas H. Cormen;Charles E. Leiserson;Ronald L. Rivest;Clifford Stein,Computer Science,icons/book5.png
+The C++ Programming Language,Bjarne Stroustrup,Computer Science,icons/book6.png
+Structure and Interpretation of Computer Programs,Harold Abelson;Gerald Jay Sussman,Computer Science,icons/book7.png
+Design Patterns,Erich Gamma;Richard Helm;Ralph Johnson;John Vlissides,Computer Science,icons/book8.png
+Clean Code,Robert C. Martin,Computer Science,icons/book9.png
+Operating System Concepts,Abraham Silberschatz;Peter Baer Galvin;Greg Gagne,Computer Science,icons/book10.png
+Computer Networks,Andrew S. Tanenbaum,Computer Science,icons/book11.png
+Artificial Intelligence: A Modern Approach,Stuart Russell;Peter Norvig,Computer Science,icons/book12.png
+Compilers: Principles,Techniques,and Tools,icons/book13.png
+Deep Learning,Ian Goodfellow;Yoshua Bengio;Aaron Courville,Computer Science,icons/book14.png
+Modern Operating Systems,Andrew S. Tanenbaum,Computer Science,icons/book15.png
+Computer Organization and Design,David A. Patterson;John L. Hennessy,Computer Science,icons/book16.png
+The Art of Computer Programming,Donald E. Knuth,Computer Science,icons/book17.png
+Introduction to the Theory of Computation,Michael Sipser,Computer Science,icons/book18.png
+Database System Concepts,Abraham Silberschatz;Henry F. Korth;S. Sudarshan,Computer Science,icons/book19.png
+Programming Pearls,Jon Bentley,Computer Science,icons/book20.png
 Algorithms in C++,Robert Sedgewick,Computer Science,icons/book21.png
-Machine Learning,Tom M. Mitchell,Computer Science,icons/Machine_Learning.jpg
-Numerical Recipes,William H. Press;et al.,Computer Science,icons/book23.png
-1984,George Orwell,Fiction,icons/book24.png
-Animal Farm,George Orwell,Fiction,icons/book25.png
-Pride and Prejudice,Jane Austen,Fiction,icons/Pride_and_Prejudice.jpg
-Moby Dick,Herman Melville,Fiction,icons/Moby_Dick.jpg
-War and Peace,Leo Tolstoy,Fiction,icons/War_and_Peace.jpg
-Crime and Punishment,Fyodor Dostoevsky,Fiction,icons/Crime_and_Punishment.jpg
-The Brothers Karamazov,Fyodor Dostoevsky,Fiction,icons/The_Brothers_Karamazov.jpg
-Jane Eyre,Charlotte Bronte,Fiction,icons/Jane_Eyre.jpg
-Wuthering Heights,Emily Bronte,Fiction,icons/book32.png
-Great Expectations,Charles Dickens,Fiction,icons/book33.png
-A Tale of Two Cities,Charles Dickens,Fiction,icons/book34.png
-Les Miserables,Victor Hugo,Fiction,icons/book35.png
-The Count of Monte Cristo,Alexandre Dumas,Fiction,icons/book36.png
-Dracula,Bram Stoker,Fiction,icons/book37.png
-Frankenstein,Mary Shelley,Fiction,icons/book38.png
-The Odyssey,Homer,Fiction,icons/The_Odyssey.jpg
-The Iliad,Homer,Fiction,icons/The_Iliad.jpg
-The Hobbit,J.R.R. Tolkien,Fantasy,icons/book41.png
-Brave New World,Aldous Huxley,Science Fiction,icons/book42.png
-Fahrenheit 451,Ray Bradbury,Science Fiction,icons/book43.png
-Catch-22,Joseph Heller,Fiction,icons/book44.png
-Slaughterhouse-Five,Kurt Vonnegut,Fiction,icons/book45.png
-To Kill a Mockingbird,Harper Lee,Fiction,icons/book46.png
-The Catcher in the Rye,J.D. Salinger,Fiction,icons/book47.png
-The Picture of Dorian Gray,Oscar Wilde,Fiction,icons/book48.png
-The Stranger,Albert Camus,Fiction,icons/book49.png
-The Metamorphosis,Franz Kafka,Fiction,icons/book50.png
-Heart of Darkness,Joseph Conrad,Fiction,icons/book51.png
-Don Quixote,Miguel de Cervantes,Fiction,icons/book52.png
-Gullivers Travels,Jonathan Swift,Fiction,icons/book53.png
-The Divine Comedy,Dante Alighieri,Fiction,icons/book54.png
-Dune,Frank Herbert,Science Fiction,icons/book55.png
-Foundation,Isaac Asimov,Science Fiction,icons/book56.png
-Neuromancer,William Gibson,Science Fiction,icons/book57.png
-The Left Hand of Darkness,Ursula K. Le Guin,Science Fiction,icons/book58.png
-Snow Crash,Neal Stephenson,Science Fiction,icons/book59.png
-The Time Machine,H. G. Wells,Science Fiction,icons/book60.png
-Do Androids Dream of Electric Sheep?,Philip K. Dick,Science Fiction,icons/book61.png
-Enders Game,Orson Scott Card,Science Fiction,icons/book62.png
-A Game of Thrones,George R. R. Martin,Fantasy,icons/book63.png
-The Name of the Wind,Patrick Rothfuss,Fantasy,icons/book64.png
-Mistborn The Final Empire,Brandon Sanderson,Fantasy,icons/book65.png
-Republic,Plato,Philosophy,icons/book66.png
-Nicomachean Ethics,Aristotle,Philosophy,icons/book67.png
-Meditations,Marcus Aurelius,Philosophy,icons/book68.png
-Beyond Good and Evil,Friedrich Nietzsche,Philosophy,icons/book69.png
-Thus Spoke Zarathustra,Friedrich Nietzsche,Philosophy,icons/book70.png
-Critique of Pure Reason,Immanuel Kant,Philosophy,icons/book71.png
-Leviathan,Thomas Hobbes,Philosophy,icons/book72.png
-A Brief History of Time,Stephen Hawking,Science,icons/book73.png
-The Selfish Gene,Richard Dawkins,Science,icons/book74.png
-The Origin of Species,Charles Darwin,Science,icons/book75.png
-Cosmos,Carl Sagan,Science,icons/book76.png
-Silent Spring,Rachel Carson,Science,icons/book77.png
-The Double Helix,James D. Watson,Science,icons/book78.png
-Principia,Isaac Newton,Science,icons/book79.png
-The Structure of Scientific Revolutions,Thomas S. Kuhn,Science,icons/book80.png
-Godel Escher Bach,Douglas Hofstadter,Science,icons/book81.png
-Flatland,Edwin A. Abbott,Mathematics,icons/book82.png
-Euclids Elements,Euclid,Mathematics,icons/book83.png
-A Mathematicians Apology,G. H. Hardy,Mathematics,icons/book84.png
-The Lean Startup,Eric Ries,Business,icons/book85.png
-Thinking Fast and Slow,Daniel Kahneman,Business,icons/book86.png
-Atomic Habits,James Clear,Self-Help,icons/book87.png
-Deep Work,Cal Newport,Self-Help,icons/book88.png
-The 7 Habits of Highly Effective People,Stephen R. Covey,Self-Help,icons/book89.png
-Refactoring,Martin Fowler,Computer Science,icons/book90.png
-Code Complete,Steve McConnell,Computer Science,icons/book91.png
-Working Effectively with Legacy Code,Michael Feathers,Computer Science,icons/book92.png
-The Pragmatic Programmer,Andrew Hunt;David Thomas,Computer Science,icons/book93.png
-Domain-Driven Design,Eric Evans,Computer Science,icons/book94.png
-Effective Java,Joshua Bloch,Computer Science,icons/book95.png
-Head First Design Patterns,Eric Freeman;Elisabeth Robson;Bert Bates;Kathy Sierra,Computer Science,icons/book96.png
-Patterns of Enterprise Application Architecture,Martin Fowler,Computer Science,icons/book97.png
-Clean Architecture,Robert C. Martin,Computer Science,icons/book98.png
-Python Cookbook,David Beazley;Brian K. Jones,Computer Science,icons/book99.png
-C++ Primer,Stanley B. Lippman;Josée Lajoie;Barbara E. Moo,Computer Science,icons/book100.png
-Effective Modern C++,Scott Meyers,Computer Science,icons/book101.png
-Fluent Python,Luciano Ramalho,Computer Science,icons/book102.png
-Programming Rust,Jim Blandy;Jason Orendorff,Computer Science,icons/book103.png
-Java Concurrency in Practice,Brian Goetz;Tim Peierls;Joshua Bloch;Joseph Bowbeer;David Holmes;Doug Lea,Computer Science,icons/book104.png
-Linux Kernel Development,Robert Love,Computer Science,icons/book105.png
-Hands-On Machine Learning,Aurelien Geron,Computer Science,icons/book106.png
-Designing Data-Intensive Applications,Martin Kleppmann,Computer Science,icons/book107.png
-The Histories,Herodotus,History,icons/book108.png
-The Guns of August,Barbara W. Tuchman,History,icons/book109.png
-The Rise and Fall of the Third Reich,William L. Shirer,History,icons/book110.png
-Wealth of Nations,Adam Smith,Economics,icons/book111.png
-Capital,Karl Marx,Economics,icons/book112.png
-The General Theory,John Maynard Keynes,Economics,icons/book113.png
-Sapiens,Yuval Noah Harari,History,icons/book114.png
-Homo Deus,Yuval Noah Harari,History,icons/book115.png
-Thinking in Systems,Donella H. Meadows,Science,icons/book116.png
-The Art of War,Sun Tzu,History,icons/book117.png
-On War,Carl von Clausewitz,History,icons/book118.png
-The Prince,Niccolo Machiavelli,History,icons/book119.png
-Man's Search for Meaning,Viktor E. Frankl,Self-Help,icons/book120.png
-The Power of Habit,Charles Duhigg,Self-Help,icons/book121.png
-Influence,Robert B. Cialdini,Business,icons/book122.png
-The Design of Everyday Things,Don Norman,Design,icons/book123.png
+The Iron Heel,Jack London,fiction,icons/The_Iron_Heel.jpg
+Brood of the Witch-Queen,Sax Rohmer,fiction,icons/Brood_of_the_Witch_Queen.jpg
+Anthem,Ayn Rand,fiction,icons/Anthem.jpg
+Emily of New Moon,Lucy Maud Montgomery,fiction,icons/Emily_of_New_Moon.jpg
+The Sea Fairies,L. Frank Baum,fiction,icons/The_Sea_Fairies.jpg
+Lilith,George MacDonald,fiction,icons/Lilith.jpg
+The Enchanted Castle,Edith Nesbit,fiction,icons/The_Enchanted_Castle.jpg
+Pollyanna,Eleanor Hodgman Porter; Porter; Neil Reed; Lee Giles,fiction,icons/Pollyanna.jpg
+Anne of the Island,Lucy Maud Montgomery,fiction,icons/Anne_of_the_Island.jpg
+Le roman du masque de fer,Alexandre Dumas,fiction,icons/Le_roman_du_masque_de_fer.jpg
+The blue castle,Lucy Maud Montgomery,fiction,icons/The_blue_castle.jpg
+The Canterville Ghost,Oscar Wilde,fiction,icons/The_Canterville_Ghost.jpg
+The Road to Oz,L. Frank Baum,fiction,icons/The_Road_to_Oz.jpg
+The food of the gods and how it came to earth,H. G. Wells,fiction,icons/The_food_of_the_gods_and_how_it_came_to_earth.jpg
+Anne of Windy Poplars,Lucy Maud Montgomery,fiction,icons/Anne_of_Windy_Poplars.jpg
+Phantastes,George MacDonald,fiction,icons/Phantastes.jpg
+Just So Stories,Rudyard Kipling,fiction,icons/Just_So_Stories.jpg
+The Complete Life and Adventures of Santa Claus,L. Frank Baum,fiction,icons/The_Complete_Life_and_Adventures_of_Santa_Claus.jpg
+The King in Yellow,Robert W. Chambers,fiction,icons/The_King_in_Yellow.jpg
+Jo's Boys,Louisa May Alcott; Success Oceo,fiction,icons/Jo_s_Boys.jpg
+Of Human Bondage,William Somerset Maugham,fiction,icons/Of_Human_Bondage.jpg
+The Power of Darkness,Edith Nesbit,fiction,icons/The_Power_of_Darkness.jpg
+Dorothy and the Wizard in Oz,L. Frank Baum,fiction,icons/Dorothy_and_the_Wizard_in_Oz.jpg
+Carmilla,Sheridan Le Fanu,fiction,icons/Carmilla.jpg
+The Phoenix and the Carpet,Edith Nesbit,fiction,icons/The_Phoenix_and_the_Carpet.jpg
+The Mystery of the Blue Train,Agatha Christie,fiction,icons/The_Mystery_of_the_Blue_Train.jpg
+Kim,Rudyard Kipling,fiction,icons/Kim.jpg
+Daddy-Long-Legs,Jean Webster,fiction,icons/Daddy_Long_Legs.jpg
+The Man in the Brown Suit,Agatha Christie,fiction,icons/The_Man_in_the_Brown_Suit.jpg
+A Princess of Mars,Edgar Rice Burroughs,fiction,icons/A_Princess_of_Mars.jpg
+Under the Greenwood Tree or,The Mellstock quire,Thomas Hardy,icons/Under_the_Greenwood_Tree_or_The_Mellstock_quire.jpg
+A Little Princess,Frances Hodgson Burnett; Oxford University Press Staff; Jennifer Bassett; Justine Eyre; Nancy Bond,fiction,icons/A_Little_Princess.jpg
+The Beautiful and Damned,F. Scott Fitzgerald,fiction,icons/The_Beautiful_and_Damned.jpg
+On the Beach,Nevil Shute,fiction,icons/On_the_Beach.jpg
+The Jewel of Seven Stars,Bram Stoker,fiction,icons/The_Jewel_of_Seven_Stars.jpg
+Shirley,Charlotte Bronte�,fiction,icons/Shirley.jpg
+An American Tragedy,Theodore Dreiser,fiction,icons/An_American_Tragedy.jpg
+Martin Eden,Jack London,fiction,icons/Martin_Eden.jpg
+The Last Man,Mary Shelley,fiction,icons/The_Last_Man.jpg
+Far From the Madding Crowd,Thomas Hardy,fiction,icons/Far_From_the_Madding_Crowd.jpg
+The Story of the Amulet,Edith Nesbit,fiction,icons/The_Story_of_the_Amulet.jpg
+Sult,Knut Hamsun,fiction,icons/Sult.jpg
+The Book of Dragons,Edith Nesbit,fiction,icons/The_Book_of_Dragons.jpg
+Howards End,E. M. Forster,fiction,icons/Howards_End.jpg
+The Picture of Dorian Gray,Oscar Wilde,fiction,icons/The_Picture_of_Dorian_Gray.jpg
+She,H. Rider Haggard,fiction,icons/She.jpg
+Voyage au Centre de la Terre,Jules Verne,fiction,icons/Voyage_au_Centre_de_la_Terre.jpg
+The First Men in the Moon,H. G. Wells,fiction,icons/The_First_Men_in_the_Moon.jpg
+The Invisible Man,H. G. Wells,fiction,icons/The_Invisible_Man.jpg
+Momo oder Die seltsame Geschichte von den Zeit-Dieben und von dem Kind,das den Menschen die gestohlene Zeit zur�ckbrachte,Michael Ende,icons/Momo_oder_Die_seltsame_Geschichte_von_den_Zeit_Dieben_und_von_dem_Kind_das_den_Menschen_die_gestohlene_Zeit_zur_ckbrachte.jpg
+Mrs. Dalloway,Virginia Woolf,fiction,icons/Mrs_Dalloway.jpg
+The Sun Also Rises,Ernest Hemingway,fiction,icons/The_Sun_Also_Rises.jpg
+Der Zauberberg,Thomas Mann,fiction,icons/Der_Zauberberg.jpg
+The Silmarillion,J.R.R. Tolkien,fiction,icons/The_Silmarillion.jpg
+The Secret of Chimneys,Agatha Christie,fiction,icons/The_Secret_of_Chimneys.jpg
+Villette,a novel,Charlotte Bronte�,icons/Villette_a_novel.jpg
+Kidnapped,Robert Louis Stevenson,fiction,icons/Kidnapped.jpg
+After the Funeral,Agatha Christie,fiction,icons/After_the_Funeral.jpg
+A Room with a View,E. M. Forster,fiction,icons/A_Room_with_a_View.jpg
+Eva Luna,Isabel Allende,fiction,icons/Eva_Luna.jpg
+La Peste,Albert Camus,fiction,icons/La_Peste.jpg
+White Fang,Jack London,fiction,icons/White_Fang.jpg
+The Old Curiosity Shop,Charles Dickens,fiction,icons/The_Old_Curiosity_Shop.jpg
+It Can't Happen Here,Sinclair Lewis,fiction,icons/It_Can_t_Happen_Here.jpg
+The Silver Chair,C.S. Lewis,fiction,icons/The_Silver_Chair.jpg
+The Scarlet Pimpernel,Emmuska Orczy,Baroness Orczy,icons/The_Scarlet_Pimpernel.jpg
+The Riddle of the Sands,Erskine Childers,fiction,icons/The_Riddle_of_the_Sands.jpg
+Le fant�me de l'op�ra,Gaston Leroux,fiction,icons/Le_fant_me_de_l_op_ra.jpg
+The Valley of Fear,Arthur Conan Doyle,fiction,icons/The_Valley_of_Fear.jpg
+The Last Battle,C.S. Lewis,fiction,icons/The_Last_Battle.jpg
+Demian,Hermann Hesse,fiction,icons/Demian.jpg
+Anne of Avonlea,Lucy Maud Montgomery,fiction,icons/Anne_of_Avonlea.jpg
+Tik-Tok of Oz,L. Frank Baum,fiction,icons/Tik_Tok_of_Oz.jpg
+The Hollow,Agatha Christie,fiction,icons/The_Hollow.jpg
+Murder on the Links,Agatha Christie,fiction,icons/Murder_on_the_Links.jpg
+The Twits,Roald Dahl,fiction,icons/The_Twits.jpg
+The Lost World,Arthur Conan Doyle,fiction,icons/The_Lost_World.jpg
+Sons and Lovers,D. H. Lawrence,fiction,icons/Sons_and_Lovers.jpg
+The Magician's Nephew,C.S. Lewis,fiction,icons/The_Magician_s_Nephew.jpg
+The Legend of Sleepy Hollow,Washington Irving,fiction,icons/The_Legend_of_Sleepy_Hollow.jpg
+Der Steppenwolf,Hermann Hesse,fiction,icons/Der_Steppenwolf.jpg
+Memoirs of Fanny Hill,John Cleland,fiction,icons/Memoirs_of_Fanny_Hill.jpg
+The Godfather,Mario Puzo,fiction,icons/The_Godfather.jpg
+Appointment with Death,Agatha Christie,fiction,icons/Appointment_with_Death.jpg
+The Time Machine,H. G. Wells,fiction,icons/The_Time_Machine.jpg
+Murder in Mesopotamia,Agatha Christie,fiction,icons/Murder_in_Mesopotamia.jpg
+La p�re Goriot,Honor� de Balzac,fiction,icons/La_p_re_Goriot.jpg
+Ulysses,James Joyce; James Joyce; james joyce,fiction,icons/Ulysses.jpg
+Poirot investigates,Agatha Christie,fiction,icons/Poirot_investigates.jpg
+The Pickwick Papers,Charles Dickens,fiction,icons/The_Pickwick_Papers.jpg
+His Last Bow [8 stories],Arthur Conan Doyle,fiction,icons/His_Last_Bow_8_stories.jpg
+Ivanhoe,Sir Walter Scott,fiction,icons/Ivanhoe.jpg
+Cards on the Table,Agatha Christie,fiction,icons/Cards_on_the_Table.jpg
+The Marvelous Land of Oz,L. Frank Baum,fiction,icons/The_Marvelous_Land_of_Oz.jpg
+Lady Susan,Jane Austen,fiction,icons/Lady_Susan.jpg
+Cranford,Elizabeth Cleghorn Gaskell,fiction,icons/Cranford.jpg
+The Prince and the Pauper,Mark Twain,fiction,icons/The_Prince_and_the_Pauper.jpg

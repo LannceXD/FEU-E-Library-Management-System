@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 # FEU E-Library Management System
 
 A comprehensive library management system built with C++ and ImGui, featuring a modern UI and complete book lending workflow.
+
+## Coded by:
+- Lannce Carrillo
+- Cris Justin Solomon 
+
+## Papers by:
+- Jeriko Pitao
+- Akia Emric
 
 ## Features
 
@@ -65,11 +74,10 @@ bin\x64\Release\FINALPROJECT.exe
 
 **Admin Account:**
 - Username: `admin`
-- Password: `admin123`
+- Password: `admin`
 
 **Student Account:**
-- Username: `ctsolomon`
-- Password: `solomon123`
+- Create one
 
 ## Project Structure
 
@@ -127,3 +135,6 @@ This project is licensed under the MIT License - see the LICENSE.txt file for de
 ## Contact
 
 For questions or support, please open an issue on GitHub.
+=======
+# FEU-E-Library-Management-System
+>>>>>>> c6bb32028a3b50840676e919fb25530b3b7b803b
