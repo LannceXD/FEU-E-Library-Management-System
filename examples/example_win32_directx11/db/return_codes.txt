@@ -1,0 +1,16 @@
+Return Codes Export
+Generated: 11:36:46 Nov 22 2025
+
+The Great Gatsby , ctsolomon , 174094 , Returned
+Computer Networks , ctsolomon , 882455 , Returned
+Artificial Intelligence A Modern Approach , ctsolomon , 171152 , Returned
+Design Patterns , ctsolomon , 761423 , Returned
+The Great Gatsby , ctsolomon , 221685 , Returned
+Machine Learning , ctsolomon , 761892 , Returned
+Algorithms in C++ , ctsolomon , 795431 , Returned
+Machine Learning , ctsolomon , 233411 , Returned
+Computer Networks , ctsolomon , 387427 , Returned
+Deep Learning , ctsolomon , 793198 , Returned
+Deep Learning , ctsolomon , 650286 , Returned
+Algorithms in C++ , ctsolomon , 024865 , Returned
+Artificial Intelligence A Modern Approach , ctsolomon , 090061 , Borrowed
