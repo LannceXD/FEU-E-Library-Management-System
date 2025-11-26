@@ -49,6 +49,11 @@ A comprehensive library management system built with C++ and ImGui, featuring a 
 - DirectX 11
 - MSBuild
 
+## Information about the CMD Pop up warning
+- Batch file is used to guarantee to run the program in full admin
+  because it is required for account creation,
+-Only work around I found is this so if you have any recommendation then just comment.
+
 ## Installation
 
 1. Clone this repository:
