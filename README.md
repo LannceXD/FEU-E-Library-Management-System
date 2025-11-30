@@ -11,7 +11,7 @@ A comprehensive library management system built with C++ and ImGui, featuring a 
 - Akia Emric
 
 ## Installation
-Download - [FEU E-LIBRARY SETUP](https://drive.google.com/file/d/1EJ0ODe2xJKDbqosSDyLZ41MF3AmxWt3a/view?usp=sharing)
+Download - [FEU E-LIBRARY SETUP](https://drive.google.com/file/d/1AmeJoN9qyJ19sU3VUq2_zLM4bH6qjOJC/view?usp=sharing)
 
 ## Features
 
